@@ -1,0 +1,1 @@
+Cliente [cpf=123, nome=teste, idade=12, sexo=fem, endereco=rua]
